@@ -1,0 +1,6 @@
+[submodule "CI-CD-JavaProject"]
+	path = CI-CD-JavaProject
+	url = https://github.com/damodara2006/samplejavaapp.git
+[submodule "React-app-CI-CD"]
+	path = React-app-CI-CD
+	url = https://github.com/damodara2006/React-CI_CD_Docker.git
